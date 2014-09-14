@@ -1,1 +1,2 @@
 Sucha Beskidzka,sucha.mbtiles
+Maków Podhalański,makow.mbtiles
