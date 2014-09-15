@@ -1,2 +1,2 @@
-Sucha Beskidzka,sucha.mbtiles
-Maków Podhalański,makow.mbtiles
+Tatrzański Park Narodowy,tatry.mbtiles
+Babiogórski Park Narodowy,babiagorskiparknarodowy.mbtiles
