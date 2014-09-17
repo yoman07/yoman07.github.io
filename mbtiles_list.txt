@@ -1,3 +1,6 @@
 Tatrzański Park Narodowy,tatry.mbtiles
 Babiogórski Park Narodowy,babiagorskiparknarodowy.mbtiles
-Świętokrzyski Park Narodowy, swietokrzyskie.mbtiles
+Świętokrzyski Park Narodowy,swietokrzyskie.mbtiles
+Karkonoski Park Narodowy,karkonoski.mbtiles
+Pieniński i Gorczański Park Narodowy,pieniniski_gorczanski.mbtiles
+Park Narodowy Gór Stołowych,gorstolowych.mbtiles
