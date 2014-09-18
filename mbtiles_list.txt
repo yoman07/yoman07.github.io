@@ -4,3 +4,5 @@ Babiogórski Park Narodowy,babiagorskiparknarodowy.mbtiles
 Karkonoski Park Narodowy,karkonoski.mbtiles
 Pieniński i Gorczański Park Narodowy,pieniniski_gorczanski.mbtiles
 Park Narodowy Gór Stołowych,gorstolowych.mbtiles
+Bieszczadzki Park Narodowy,bieszczadzki.mbtiles
+Magurski Park Narodowy,magurski.mbtiles
