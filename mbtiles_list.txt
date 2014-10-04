@@ -6,5 +6,5 @@ Pieniński i Gorczański Park Narodowy,pieniniski_gorczanski.mbtiles
 Park Narodowy Gór Stołowych,gorstolowych.mbtiles
 Bieszczadzki Park Narodowy,bieszczadzki.mbtiles
 Magurski Park Narodowy,magurski.mbtiles
-Beskidy: Makowski;Żywiecki;Mały,beskid_makowski_zywiecki_maly.
+Beskidy: Makowski;Żywiecki;Mały,beskid_makowski_zywiecki_maly.mbtiles
 Tatry polskie i slowackie,tatry_polskie_slowackie.mbtiles
