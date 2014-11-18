@@ -7,5 +7,5 @@ Park Narodowy Gór Stołowych,gorstolowych.mbtiles
 Bieszczadzki Park Narodowy,bieszczadzki.mbtiles
 Magurski Park Narodowy,magurski.mbtiles
 Beskidy: Makowski;Żywiecki;Mały,beskidmakowskizywieckimaly.mbtiles
-Beskid Śląski,beskid_slaski.mbtiles
+Beskid Śląski,beskidslaski.mbtiles
 Tatry polskie i slowackie,tatrypolskieslowackie.mbtiles
