@@ -1,11 +1,11 @@
-Tatrzański Park Narodowy,tatry.mbtiles
-Babiogórski Park Narodowy,babiagorskiparknarodowy.mbtiles
-Świętokrzyski Park Narodowy,swietokrzyskie.mbtiles
-Karkonoski Park Narodowy,karkonoski.mbtiles
-Pieniński i Gorczański Park Narodowy,pieniniskigorczanski.mbtiles
-Park Narodowy Gór Stołowych,gorstolowych.mbtiles
-Bieszczadzki Park Narodowy,bieszczadzki.mbtiles
-Magurski Park Narodowy,magurski.mbtiles
-Beskidy: Makowski;Żywiecki;Mały,beskidmakowskizywieckimaly.mbtiles
-Beskid Śląski,beskidslaski.mbtiles
-Tatry polskie i slowackie,tatrypolskieslowackie.mbtiles
+Tatrzański Park Narodowy - 70.4 MB,tatry.mbtiles
+Babiogórski Park Narodowy - 18.2 MB,babiagorskiparknarodowy.mbtiles
+Świętokrzyski Park Narodowy - 11.8 MB,swietokrzyskie.mbtiles
+Karkonoski Park Narodowy - 62.7 MB,karkonoski.mbtiles
+Pieniński i Gorczański Park Narodowy - 72.1 MB,pieniniskigorczanski.mbtiles
+Park Narodowy Gór Stołowych - 52.1 MB,gorstolowych.mbtiles
+Bieszczadzki Park Narodowy - 70.4 MB,bieszczadzki.mbtiles
+Magurski Park Narodowy - 37 MB,magurski.mbtiles
+Beskidy: Makowski;Żywiecki;Mały - 91.1 MB,beskidmakowskizywieckimaly.mbtiles
+Beskid Śląski - 63 MB,beskidslaski.mbtiles
+Tatry polskie i slowackie - 85.8 MB,tatrypolskieslowackie.mbtiles
